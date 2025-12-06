@@ -1,0 +1,10 @@
+# MacOS
+.DS_Store
+
+# Emacs
+*~
+\#*\#
+.\#*
+*.elc
+*.eln
+autoload.el
